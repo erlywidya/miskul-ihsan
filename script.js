@@ -1,12 +1,12 @@
 const products = [
-  {id:1,name:"Aquadigio Alvin",category:"unisex",price:65000,notes:"Fresh • Aquatic • Masculine",badge:"BEST SELLER"},
-  {id:2,name:"Zara Orchid",category:"wanita",price:60000,notes:"Floral • Fresh • Elegant",badge:"FAVORITE"},
-  {id:3,name:"Dior Sauvage",category:"pria",price:70000,notes:"Bold • Masculine • Fresh",badge:"NEW"},
-  {id:4,name:"White Musk Kasturi",category:"unisex",price:75000,notes:"Elegant • Soft • Clean",badge:"PREMIUM"},
-  {id:5,name:"Jessica Parker",category:"wanita",price:55000,notes:"Feminine • Elegant • Floral",badge:""},
-  {id:6,name:"Paco Rabanne",category:"pria",price:68000,notes:"Seductive • Luxurious • Bold",badge:""},
-  {id:7,name:"D&G Light Blue",category:"wanita",price:72000,notes:"Energetic • Fresh • Vibrant",badge:"NEW"},
-  {id:8,name:"Calvin Klein",category:"unisex",price:62000,notes:"Clean • Timeless • Fresh",badge:""}
+  {id:1,name:"Aquadigio Alvin",category:"unisex",price:44000,notes:"Fresh • Aquatic • Masculine",badge:"BEST SELLER"},
+  {id:2,name:"Zara Orchid",category:"wanita",price:29000,notes:"Floral • Fresh • Elegant",badge:"FAVORITE"},
+  {id:3,name:"Dior Sauvage",category:"pria",price:31000,notes:"Bold • Masculine • Fresh",badge:"NEW"},
+  {id:4,name:"White Musk Kasturi",category:"unisex",price:36000,notes:"Elegant • Soft • Clean",badge:"PREMIUM"},
+  {id:5,name:"Jessica Parker",category:"wanita",price:30000,notes:"Feminine • Elegant • Floral",badge:""},
+  {id:6,name:"Paco Rabanne",category:"pria",price:36000,notes:"Seductive • Luxurious • Bold",badge:""},
+  {id:7,name:"D&G Light Blue",category:"wanita",price:26000,notes:"Energetic • Fresh • Vibrant",badge:"NEW"},
+  {id:8,name:"Calvin Klein",category:"unisex",price:36000,notes:"Clean • Timeless • Fresh",badge:""}
 ];
 
 let cart = JSON.parse(localStorage.getItem("miskulCart") || "[]");
