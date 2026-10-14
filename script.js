@@ -7,6 +7,7 @@ const products = [
   {id:6,name:"Paco Rabanne",category:"pria",price:55000,notes:"Seductive • Luxurious • Bold",badge:""},
   {id:7,name:"D&G Light Blue",category:"wanita",price:45000,notes:"Energetic • Fresh • Vibrant",badge:"NEW"},
   {id:8,name:"Calvin Klein",category:"unisex",price:55000,notes:"Clean • Timeless • Fresh",badge:""}
+  {id:9,name:"My Konos Monaco Royal",category:"wanita",price:50000,notes:"Fresh • Sweet • Sensual",badge:""}
 ];
 
 let cart = JSON.parse(localStorage.getItem("miskulCart") || "[]");
