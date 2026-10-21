@@ -9,8 +9,8 @@ const products = [
   {id:8,name:"Miami",category:"unisex",price:60000,notes:"Clean • Timeless • Fresh",badge:""},
   {id:9,name:"My Konos Monaco Royal",category:"wanita",price:50000,notes:"Fresh • Sensual • Sweet",badge:"BARU"},
   {id:10,name:"Gucci Bloom",category:"wanita",price:60000,notes:"Coffee • Vanilla • Warm",badge:"BARU"},
-  {id:11,name:"Versace Eros",category:"pria",price:70000,notes:"Mint • Fresh • Woody",badge:"BARU"},
-  {id:12,name:"Bombshell",category:"wanita",price:68000,notes:"Fruity • Floral • Fresh",badge:"BARU"}
+  {id:11,name:"Burbery Her",category:"unisex",price:55000,notes:"Mint • Fresh • Woody",badge:"BARU"},
+  {id:12,name:"Escada Cherry",category:"wanita",price:45000,notes:"Fruity • Floral • Fresh",badge:"BARU"}
 ];
 
 let cart = JSON.parse(localStorage.getItem("miskulCart") || "[]");
