@@ -6,9 +6,9 @@ const products = [
   {id:5,name:"Jessica Parker",category:"wanita",price:50000,notes:"Feminine • Elegant • Floral",badge:""},
   {id:6,name:"Paco Rabanne",category:"pria",price:55000,notes:"Seductive • Luxurious • Bold",badge:""},
   {id:7,name:"D&G Light Blue",category:"wanita",price:45000,notes:"Energetic • Fresh • Vibrant",badge:"NEW"},
-  {id:8,name:"Calvin Klein",category:"unisex",price:55000,notes:"Clean • Timeless • Fresh",badge:""},
+  {id:8,name:"Miami",category:"unisex",price:60000,notes:"Clean • Timeless • Fresh",badge:""},
   {id:9,name:"My Konos Monaco Royal",category:"wanita",price:50000,notes:"Fresh • Sensual • Sweet",badge:"BARU"},
-  {id:10,name:"Black Opium",category:"wanita",price:75000,notes:"Coffee • Vanilla • Warm",badge:"BARU"},
+  {id:10,name:"Gucci Bloom",category:"wanita",price:60000,notes:"Coffee • Vanilla • Warm",badge:"BARU"},
   {id:11,name:"Versace Eros",category:"pria",price:70000,notes:"Mint • Fresh • Woody",badge:"BARU"},
   {id:12,name:"Bombshell",category:"wanita",price:68000,notes:"Fruity • Floral • Fresh",badge:"BARU"}
 ];
